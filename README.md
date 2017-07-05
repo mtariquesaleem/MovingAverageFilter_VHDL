@@ -1,4 +1,4 @@
-# FPGA
+# Moving Average Filter
 Sample VHDL project
 
 Moving Average Filter
